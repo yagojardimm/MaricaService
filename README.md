@@ -36,4 +36,4 @@ Substitua `<URL do repositório>` pela URL real do seu repositório Git.
 
 ### Visualização no GitHub Pages
 
-A landing page também está disponível no GitHub Pages. Você pode acessá-la através do seguinte link:
+A landing page também está disponível no GitHub Pages. Você pode acessá-la através do seguinte link: https://yagojardimm.github.io/MaricaService/
