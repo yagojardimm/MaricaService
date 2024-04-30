@@ -20,8 +20,6 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 3. Execute o seguinte comando:
 git clone <https://github.com/yagojardimm/MaricaService.git>
 
-Substitua `<URL do repositório>` pela URL real do seu repositório Git.
-
 ### Executando Localmente
 
 1. Navegue até a pasta do projeto clonado.
