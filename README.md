@@ -18,7 +18,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 1. Abra o terminal ou prompt de comando.
 2. Navegue até a pasta onde deseja clonar o repositório.
 3. Execute o seguinte comando:
-git clone <URL do repositório>
+###git clone <URL do repositório>
 
 Substitua `<URL do repositório>` pela URL real do seu repositório Git.
 
